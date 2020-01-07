@@ -3,7 +3,7 @@ Node.js Program to download a project details from remote Mongodb server &amp; s
 
 ## Install Mongodb client.
 
-npm install mongodb
+$ npm install mongodb
 
 ## Run program
-node mongodb.js
+$ node mongodb.js
