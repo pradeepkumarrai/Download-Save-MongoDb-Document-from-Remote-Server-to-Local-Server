@@ -5,4 +5,5 @@ Node.js Program to download a project details from remote Mongodb server &amp; s
 
 npm install mongodb
 
-npm install gridfs-stream
+## Run program
+node mongodb.js
